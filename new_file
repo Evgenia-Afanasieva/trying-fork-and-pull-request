@@ -1,2 +1,6 @@
 from Evgenia
+<<<<<<< HEAD
 from branch1
+=======
+from Evgenia again
+>>>>>>> master
